@@ -1,1 +1,1 @@
-Taskify is a Flutter productivity app with Firebase Authentication and Realtime Database, allowing users to manage tasks, colorful notes, and get daily motivational quotes via API with real-time updates.
+Taskify is a Flutter-based productivity application powered by Firebase Authentication and Realtime Database, enabling users to manage tasks and color-coded notes with real-time syncing, along with a daily motivational quote feature via REST API.
