@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "840281659489",
+    "firebase_url": "https://taskifynotes-default-rtdb.firebaseio.com",
+    "project_id": "taskifynotes",
+    "storage_bucket": "taskifynotes.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:840281659489:android:b1c0ffdb7a92e0c906b220",
+        "android_client_info": {
+          "package_name": "com.example.taskify"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdx99gzL1ZmBKn4EgLZH8nSQTXICKeOmI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
